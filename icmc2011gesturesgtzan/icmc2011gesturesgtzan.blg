@@ -1,0 +1,15 @@
+This is BibTeX, Version 0.99cThe top-level auxiliary file: icmc2011gesturesgtzan.aux
+The style file: IEEEtranS.bst
+Database file #1: icmc2011gesturesgtzan.bib
+Warning--entry type for "cadoz00" isn't style-file defined
+--line 215 of file icmc2011gesturesgtzan.bib
+Warning--string name "march" is undefined
+--line 283 of file icmc2011gesturesgtzan.bib
+-- IEEEtranS.bst version 1.13 (2008/09/30) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+** Sorting version - not for normal IEEE work.
+Warning--missing school in overholt07
+
+Done.
+(There were 3 warnings)
